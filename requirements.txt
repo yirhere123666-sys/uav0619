@@ -1,0 +1,17 @@
+numpy
+matplotlib
+imageio
+pillow
+pandas
+xarray
+scipy
+pyproj
+
+# Required for real ERA5/HRRR data integration:
+netCDF4
+h5netcdf
+h5py
+cfgrib
+eccodes
+cdsapi
+herbie-data
